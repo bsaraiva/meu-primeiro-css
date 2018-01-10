@@ -1,0 +1,14 @@
+/* EXEMPLO div > h2 */
+  h1, h2, h3 {
+    color:red;
+    background-color: yellow
+  }
+  .principal{
+    color:blue;
+  }
+  h1.principal{
+    border-style:solid;
+  }
+  #titulo-da-noticia{
+    color:green;
+  }
